@@ -1,2 +1,3 @@
-another readme for 0x01-git
-README update from github.com
+My first readme
+
+I edited this readme file in the github.com web interface
